@@ -1,56 +1,38 @@
-2024-05-18 08:23
+2024-05-18 08:23:> Status:    /Tags:
+
+------------------------------------------------------------
 # Terminal Music (Cmus)
-------------------------------------------------------------
-\- 		 volume -10% 
-------------------------------------------------------------
-= 		 volume +10%
-------------------------------------------------------------
-z 		 play previous
-------------------------------------------------------------
-b 		 play next
-------------------------------------------------------------
-c 		 pause/play
-------------------------------------------------------------
-x 		 start from begining
-------------------------------------------------------------
-v 		 Stop playback and go to begining
-------------------------------------------------------------
-r 		 loop all
-------------------------------------------------------------
-shift+r	 loop current 
-------------------------------------------------------------
-\<		 -60sec
-------------------------------------------------------------
-\>	    +60sec
-------------------------------------------------------------
-arrow-L  -5sec
-------------------------------------------------------------
-arrow-R  +5sec
-------------------------------------------------------------
-[		 left volume +1%
-------------------------------------------------------------
-]		 right volume +1%
-------------------------------------------------------------
-z – previous track
-------------------------------------------------------------
-c – Play/Pause
-------------------------------------------------------------
-s – toggle shuffle
-------------------------------------------------------------
-m – toggles the “aaa mode.” aaa stands for artist, album, or
-------------------------------------------------------------all
-x – replay the song
-------------------------------------------------------------
-i – jump view to the currently playing track (handy in shuffle mode, and follow is off.)
-------------------------------------------------------------
-f – toggle follow. When follow is on, the selection bar will jump to the next playing track.
-------------------------------------------------------------
-/<name> – Search any  media file
-------------------------------------------------------------
-(-) – Reduces Volume by 10%
-------------------------------------------------------------
-(+) – Increases volume by 10%
-------------------------------------------------------------
+
+| key           | detail                                                                                   |
+| ------------- | ---------------------------------------------------------------------------------------- |
+| \- 		 <br>    | volume -10%                                                                              |
+| = 		 <br>     | volume +10%                                                                              |
+| z 		 <br>     | play previous                                                                            |
+| b 		 <br>     | play next                                                                                |
+| c 		 <br>     | pause/play                                                                               |
+| x 		 <br>     | start from begining                                                                      |
+| v 		 <br>     | Stop playback and go to begining                                                         |
+| r 		 <br>     | loop all                                                                                 |
+| shift+r	 <br> | loop current                                                                             |
+| \<		 <br>     | -60sec                                                                                   |
+| \>	    <br>   | +60sec                                                                                   |
+| arrow-L  <br> | -5sec                                                                                    |
+| arrow-R  <br> | +5sec                                                                                    |
+| [		 <br>      | left volume +1%                                                                          |
+| ]		 <br>      | right volume +1%                                                                         |
+| s 		 <br>     | toggle shuffle                                                                           |
+| z <br>        | previous track                                                                           |
+| c <br>        | Play/Pause                                                                               |
+| s <br>        | toggle shuffle                                                                           |
+| m <br>        | toggles the “aaa mode.” aaa stands for artist, album, or all                             |
+| x <br>        | replay the song                                                                          |
+| i <br>        | jump view to the currently playing track (handy in shuffle mode, and follow is off.)     |
+| f<br>         | toggle follow. When follow is on, the selection bar will jump to the next playing track. |
+| /<name> <br>  | – Search any  media file                                                                 |
+| (-)<br>       | Reduces Volume by 10%                                                                    |
+| (+)           | Increases volume by 10%                                                                  |
+
+
 
 
 
@@ -58,4 +40,5 @@ f – toggle follow. When follow is on, the selection bar will jump to the next 
 
 # References
 
-https://cmus.github.io/
+
+
