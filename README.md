@@ -6,10 +6,13 @@
 ## Download & Install
     Debian/Ubuntu Linux:
     - sudo apt-get install cmus
+    
     Fedora/RHEL Linux:
     - sudo dnf install cmus (requires enabling RPMFusion repos)
+    
     Arch Linux:
     - sudo pacman -S cmus
+    
     OS X:
     - brew install cmus
 
