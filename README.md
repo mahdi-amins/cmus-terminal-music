@@ -3,7 +3,7 @@
 ------------------------------------------------------------
 # Terminal Music (Cmus)
 
-\- 		 volume -10%
+\- 		 volume -10% \n
 = 		 volume +10%
 z 		 play previous
 b 		 play next
