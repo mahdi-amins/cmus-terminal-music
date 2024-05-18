@@ -44,9 +44,9 @@
 | x <br>        | replay the song                                                                          |
 | i <br>        | jump view to the currently playing track (handy in shuffle mode, and follow is off.)     |
 | f<br>         | toggle follow. When follow is on, the selection bar will jump to the next playing track. |
-| /<name> <br>  | – Search any  media file                                                                 |
-| (-)<br>       | Reduces Volume by 10%                                                                    |
-| (+)           | Increases volume by 10%                                                                  |
+| /<name> <br>  | search any  media file                                                                 |
+| (-)<br>       | reduces Volume by 10%                                                                    |
+| (+)           | increases volume by 10%                                                                  |
 
 
 
