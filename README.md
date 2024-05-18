@@ -17,6 +17,14 @@
     - brew install cmus
 
 
+## Adding New Music
+	step 1: Press "5"
+	step 2: Find musics in folder
+	step 3: Use "arrow keys" and add music with "a" key
+	step 4: Press "2" to get back to playlist
+	step 5: Press "Enter" and enjoy your music
+
+
 ## Useful Keys
 
 | key           | detail                                                                                   |
